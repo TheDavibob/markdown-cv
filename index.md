@@ -13,6 +13,10 @@ British
 ### Email
 david.i.baker@cantab.net
 
+### LinkedIn
+
+https://www.linkedin.com/in/david-baker-2112b7142/
+
 ## Full-time Employment
 
 `June 2019-` Senior Mathematician at Cambridge Consultants
@@ -55,11 +59,36 @@ Sixth-term Examination Paper (Mathematics), Papers II and III (S, S).
 
 10 GCSEs (all a*) including Mathematics and English
 
-## Internships and other employment
+## Internships and Other Employment
+
+## University of Cambridge (St. Catharine's College and others)
+
+`October 2015 - May 2019`
+Small group supervision for a wide variety of undergraduate Mathematics courses, including Differential Equations, Asymptotic Methods, Complex Methods and Fluid Dynamics
+
+## Undergraduate Admissions, St. Catharine's College Cambridge
+
+`December 2017`, `December 2016` Active role in interviewing and selecting prospective Mathematics undergraduates
+
+## Cambridge Assessment, Cambridge
+
+`July 2018`, `July 2017`, `July 2016`
+Marking Sixth Term Examination Papers in Mathematics, a University admissions paper.
+
+## Schlumberger Gould Research Centre, Cambridge
+
+`June-September 2015`
+Three-month paid internship, modelling alginate gels in moving fluids.
 
 ## Technical skills
 
-## Other information
+### Programming
+
+Experienced used of Python and MATLAB
+
+Familiarity with Wolfram Mathematica, Julia, C
+
+Experienced with Latex and Microsoft Office applications
 
 ### Languages
 
